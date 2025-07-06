@@ -1,6 +1,8 @@
 # FjMyDevSouce
 
-VRChat向けゲームワールド開発で私が担当したギミック部分の一部です。
+VRChat向けゲームワールド開発で私が担当したギミック部分のスクリプト(一部)です。
+
+zipファイル内に格納しています。
 
 ・「SpeechBubbleTextSwitcher.cs」...NPCインタラクト時のセリフ表示用スクリプト
 
